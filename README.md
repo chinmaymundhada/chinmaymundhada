@@ -1,10 +1,10 @@
 # Hi, I'm Chinmay Mundhada
 
 
-![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=chinmaymundhada&count_private=true&hide=issues&show_icons=true&theme=radical)
+![Chinmay's github stats](https://github-readme-stats.vercel.app/api?username=chinmaymundhada&count_private=true&hide=issues&show_icons=true&theme=shades-of-purple)
 
 <!-- To remove C++, use this link : https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshkothadi&layout=compact&hide=c%2B%2B -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaymundhada&layout=compact&theme=radical)](https://github.com/chinmaymundhada/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinmaymundhada&layout=compact&theme=shades-of-purple)](https://github.com/chinmaymundhada/github-readme-stats)
 
 
 <a href="https://twitter.com/Chinmay0208"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a> 
